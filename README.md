@@ -1,12 +1,110 @@
-# React + Vite
+# 🚀 Fatih Jawwad — Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fast, and minimal portfolio website showcasing my work as a **Machine Learning Engineer**.
+Built with **Vite** for lightning-fast development and optimized production builds.
 
-Currently, two official plugins are available:
+## 🧑‍💻 About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I am a **Machine Learning Engineer** with expertise in:
 
-## Expanding the ESLint configuration
+* **Deep Learning** (TensorFlow, PyTorch)
+* **NLP, Computer Vision, and Generative AI**
+* **MLOps** (deployment, CI/CD, cloud platforms)
+* **Frontend development** for ML application deployment
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+My goal:
+
+> *"Be so good they can't ignore you — both in AI research and production-grade ML systems."*
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+
+* [Vite](https://vitejs.dev/) — ultra-fast build tool
+* React + JavaScript
+* Tailwind CSS for styling
+
+**Machine Learning**
+
+* TensorFlow / PyTorch
+* Hugging Face Transformers
+* OpenCV
+
+**Deployment**
+
+* FastAPI / Flask backend
+* Railway, Render, or GCP for hosting
+
+---
+
+## 📂 Project Structure
+
+```
+.
+├── public/         # Static assets
+├── src/            # Main source code
+│   ├── components/ # Reusable UI components
+│   ├── pages/      # Portfolio sections
+│   ├── assets/     # Images, icons
+│   └── App.jsx     # Root component
+├── index.html      # Main HTML template
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+**1️⃣ Clone the repository**
+
+```bash
+git clone https://github.com/yourusername/portfolio.git
+cd portfolio
+```
+
+**2️⃣ Install dependencies**
+
+```bash
+npm install
+```
+
+**3️⃣ Start development server**
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+**4️⃣ Build for production**
+
+```bash
+npm run build
+```
+
+---
+
+## 🌟 Features
+
+* 🎯 **ML Engineer Showcase** — projects, skills, and tech stack in one place
+* ⚡ **Fast loading** — powered by Vite and optimized assets
+* 📱 **Responsive design** — mobile and desktop ready
+* 🖤 **Minimal yet modern UI** — clean, distraction-free
+
+---
+
+## 📬 Contact
+
+📧 Email: [your.email@example.com](mailto:your.email@example.com)
+💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+
+---
+
+If you like this portfolio template, ⭐ the repo and fork it for your own!
+
+---
